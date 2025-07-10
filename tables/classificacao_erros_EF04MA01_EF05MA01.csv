@@ -1,0 +1,157 @@
+question_id,hab_bncc,alt_incorreta,alt_incorreta_id,classificacao_erro
+8936,EF05MA01,A,34364,Erro_estatistico
+8936,EF05MA01,C,34366,Erro_estatistico
+8936,EF05MA01,D,34367,E4 Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+8938,EF05MA01,A,34372,80 + 10
+8938,EF05MA01,B,34373,800 + 100
+8938,EF05MA01,D,34375,800.000 + 1.000
+8939,EF05MA01,A,34376,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter lido e escrito o número de forma errada, interpretando ""seiscentos e quarenta e oito mil e duzentos"" como ""648""."
+8939,EF05MA01,B,34377,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter lido e escrito o número de forma errada, interpretando ""seiscentos e quarenta e oito mil e duzentos"" como ""648 000 200""."
+8939,EF05MA01,D,34379,"erro_estatistico. A alternativa apresenta o número na forma decimal, o que não é um erro sistemático listado na tabela para a habilidade EF05MA01."
+8942,EF05MA01,A,34388,erro_estatistico
+8942,EF05MA01,B,34389,erro_estatistico
+8942,EF05MA01,C,34390,erro_estatistico
+8943,EF05MA01,A,34392,E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+8943,EF05MA01,B,34393,E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+8943,EF05MA01,C,34394,E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+8944,EF05MA01,A,34396,100
+8944,EF05MA01,B,34397,341.000
+8944,EF05MA01,C,34398,10.000
+8947,EF05MA01,A,34408,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter interpretado erroneamente as unidades de milhar como unidades simples, resultando em um número muito menor do que o correto."
+8947,EF05MA01,B,34409,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter interpretado erroneamente as unidades de milhar como dezenas de milhar, resultando em um número menor do que o correto."
+8947,EF05MA01,C,34410,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter interpretado erroneamente as unidades de milhar como milhares, resultando em um número muito menor do que o correto."
+8949,EF05MA01,A,34416,4.207
+8949,EF05MA01,B,34417,450.000.207
+8949,EF05MA01,C,34418,45.000.207
+8977,EF05MA01,A,34528,60.000 - Classificação: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+8977,EF05MA01,C,34530,600 - Classificação: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+8977,EF05MA01,D,34531,6 - Classificação: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+8978,EF05MA01,A,34532,Classe dos bilhões. - Erro: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+8978,EF05MA01,B,34533,Classe simples. - Erro: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+8978,EF05MA01,D,34535,Classe das centenas de milhar. - Erro: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+27485,EF05MA01,A,98171,erro_estatistico
+27485,EF05MA01,C,98173,erro_estatistico
+27485,EF05MA01,D,98174,erro_estatistico
+27490,EF05MA01,A,98190,Erro E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter confundido a centena de milhar (100.000) com a centena (100).
+27490,EF05MA01,B,98191,Erro E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter confundido a centena de milhar (100.000) com o milhar (1.000).
+27490,EF05MA01,C,98192,erro_estatistico - Este erro não corresponde a nenhum dos erros sistemáticos listados na tabela. O aluno pode ter adicionado 700 a 70.000 por engano.
+27492,EF05MA01,A,98198,500
+27492,EF05MA01,B,98199,5.000
+27492,EF05MA01,D,98201,500.000
+27493,EF05MA01,A,98202,2.000
+27493,EF05MA01,B,98203,20.000
+27493,EF05MA01,D,98205,202.000
+27494,EF05MA01,A,98206,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27494,EF05MA01,B,98207,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27494,EF05MA01,C,98208,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27495,EF05MA01,A,98210,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. A alternativa apresenta o número 846.963 como ""Oitenta e quatro mil e novecentos e sessenta"", o que é uma leitura e escrita incorreta do número."
+27495,EF05MA01,B,98211,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. A alternativa apresenta o número 846.963 como ""Oitocentos e quarenta e seis mil e novecentos e sessenta e seis"", o que é uma leitura e escrita incorreta do número."
+27495,EF05MA01,C,98212,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. A alternativa apresenta o número 846.963 como ""Oitocentos e quarenta e seis mil e novecentos e setenta e três"", o que é uma leitura e escrita incorreta do número."
+27496,EF05MA01,A,98214,"Classificada como ""E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar"". A alternativa apresenta o número 123.456 como ""Cento e três mil e quatrocentos"", o que é uma leitura e escrita incorreta do número."
+27496,EF05MA01,B,98215,"Classificada como ""erro_estatistico"". A alternativa apresenta o número 123.456 como ""Cento e vinte e três mil e quarenta e seis"", o que é uma leitura e escrita incorreta do número, mas não se enquadra em nenhum dos erros sistemáticos listados na tabela."
+27496,EF05MA01,C,98216,"Classificada como ""E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar"". A alternativa apresenta o número 123.456 como ""Cento e vinte e três mil, quatrocentos e sessenta e seis"", o que é uma leitura e escrita incorreta do número."
+27497,EF05MA01,A,98218,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27497,EF05MA01,B,98219,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27497,EF05MA01,D,98221,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27498,EF05MA01,A,98222,Classificação do erro: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+27498,EF05MA01,B,98223,Classificação do erro: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+27498,EF05MA01,D,98225,Classificação do erro: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+27499,EF05MA01,A,98226,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27499,EF05MA01,C,98228,Classificação do erro - erro_estatistico
+27499,EF05MA01,D,98229,Classificação do erro - erro_estatistico
+27500,EF05MA01,A,98230,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter confundido ""cento e nove mil"" com ""dezenove mil""."
+27500,EF05MA01,B,98231,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter confundido ""cento e nove mil"" com ""dezenove mil"" e adicionado ""cento"" ao final."
+27500,EF05MA01,D,98233,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter confundido a ordem dos números, colocando ""setenta"" (70) no lugar de ""dezessete"" (17)."
+27501,EF05MA01,A,98234,E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+27501,EF05MA01,B,98235,E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+27501,EF05MA01,C,98236,E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+27503,EF05MA01,A,98242,606.06 - Classificação: E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27503,EF05MA01,B,98243,666.666 - Classificação: erro_estatistico
+27503,EF05MA01,D,98245,606.066 - Classificação: E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+27504,EF05MA01,B,98247,"Este erro pode ser classificado como E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter lido ou escrito o número final incorretamente, resultando em 636.377 em vez de 636.477."
+27504,EF05MA01,C,98248,"Este erro pode ser classificado como E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter lido ou escrito o número final incorretamente, resultando em 626.877 em vez de 636.477."
+27504,EF05MA01,D,98249,"Este erro pode ser classificado como E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter lido ou escrito o número final incorretamente, resultando em 626.467 em vez de 636.477."
+27505,EF05MA01,A,98250,erro_estatistico
+27505,EF05MA01,B,98251,erro_estatistico
+27505,EF05MA01,C,98252,erro_estatistico
+51354,EF05MA01,A,178622,"Classificada como ""E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar"". O erro está na escrita do número 999.999, que foi escrito como ""Novecentos e nove mil, novecentos e noventa e nove"" em vez de ""Novecentos e noventa e nove mil, novecentos e noventa e nove""."
+51354,EF05MA01,C,178624,"Classificada como ""E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar"". O erro está na escrita do número 999.999, que foi escrito como ""Novecentos e noventa mil, novecentos e noventa e nove"" em vez de ""Novecentos e noventa e nove mil, novecentos e noventa e nove""."
+51354,EF05MA01,D,178625,"Classificada como ""E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar"". O erro está na escrita do número 999.999, que foi escrito como ""Novecentos e noventa e nove"" em vez de ""Novecentos e noventa e nove mil, novecentos e noventa e nove""."
+51355,EF05MA01,B,178627,104.896 - Classificação: E5 - Erro na ordenação de números naturais até a ordem das centenas de milhar
+51355,EF05MA01,C,178628,104.968 - Classificação: E5 - Erro na ordenação de números naturais até a ordem das centenas de milhar
+51355,EF05MA01,D,178629,109.864 - Classificação: E5 - Erro na ordenação de números naturais até a ordem das centenas de milhar
+51358,EF05MA01,A,178638,500 - Classificação: erro_estatistico
+51358,EF05MA01,C,178640,50.000 - Classificação: erro_estatistico
+51358,EF05MA01,D,178641,500.000 - Classificação: erro_estatistico
+51362,EF05MA01,A,178654,"E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter lido e interpretado o número 256.847 como tendo apenas 2 ordens e 2 classes, o que é incorreto."
+51362,EF05MA01,B,178655,"erro_estatistico. Esta alternativa não se encaixa em nenhum dos erros sistemáticos listados na tabela. O aluno pode ter confundido o conceito de ordens e classes, mas isso não está diretamente relacionado à leitura, escrita, ordenação, comparação de números naturais ou uso de símbolos para expressar igualdade e desigualdade."
+51362,EF05MA01,D,178657,"erro_estatistico. Esta alternativa também não se encaixa em nenhum dos erros sistemáticos listados na tabela. O aluno pode ter confundido o conceito de ordens e classes, mas isso não está diretamente relacionado à leitura, escrita, ordenação, comparação de números naturais ou uso de símbolos para expressar igualdade e desigualdade."
+51363,EF05MA01,A,178658,131 maçãs. - Classificação: erro_estatistico.
+51363,EF05MA01,B,178659,113 maçãs. - Classificação: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar.
+51363,EF05MA01,C,178660,31 maçãs. - Classificação: erro_estatistico.
+51415,EF05MA01,A,178866,"erro_estatistico. A alternativa A não corresponde a nenhum dos erros sistemáticos listados na tabela. O erro aqui é a falta de um zero, fazendo com que o número esteja na ordem das unidades e não das dezenas de milhar."
+51415,EF05MA01,B,178867,"E5 - Erro na ordenação de números naturais até a ordem das centenas de milhar. A alternativa B apresenta um número que não segue a sequência numérica apresentada na questão, demonstrando um erro na ordenação dos números."
+51415,EF05MA01,C,178868,"E5 - Erro na ordenação de números naturais até a ordem das centenas de milhar. A alternativa C apresenta um número que não segue a sequência numérica apresentada na questão, demonstrando um erro na ordenação dos números."
+51416,EF05MA01,A,178870,"Erro E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter confundido a ordem dos números, escrevendo 856.225 em vez de 856.235."
+51416,EF05MA01,B,178871,"Erro E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter confundido a ordem dos números, escrevendo 856.223 em vez de 856.233."
+51416,EF05MA01,D,178873,"Erro E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar. O aluno pode ter confundido a ordem dos números, escrevendo 856.243 e 856.245 em vez de 856.233 e 856.235."
+51417,EF05MA01,A,178874,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+51417,EF05MA01,C,178876,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+51417,EF05MA01,D,178877,Classificação do erro - E4 (Erro na leitura e escrita de números naturais até a ordem das centenas de milhar)
+51419,EF05MA01,A,178882,26.458 - Classificação: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+51419,EF05MA01,C,178884,264.058 - Classificação: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+51419,EF05MA01,D,178885,26.158 - Classificação: E4 - Erro na leitura e escrita de números naturais até a ordem das centenas de milhar
+3241,EF04MA01,A,11954,99 994. Este erro pode ser classificado como E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar. O aluno pode ter confundido a soma das dezenas de milhar com a soma das centenas de milhar.
+3241,EF04MA01,C,11956,98 894. Este erro pode ser classificado como E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar. O aluno pode ter lido ou escrito incorretamente os números durante a adição.
+3241,EF04MA01,D,11957,98 890. Este erro pode ser classificado como E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar. O aluno pode ter lido ou escrito incorretamente os números durante a adição.
+3243,EF04MA01,A,11962,"37 638. - Este é um erro sistemático E10. O aluno pode estar confundindo a diferença entre dezenas de milhar e centenas de milhar, acreditando que o minuendo é igual ao resultado da subtração."
+3243,EF04MA01,B,11963,"23 497. - Este é um erro sistemático E10. O aluno pode estar confundindo a diferença entre dezenas de milhar e centenas de milhar, acreditando que o minuendo é igual ao subtraendo."
+3243,EF04MA01,C,11964,"90 035. - Este é um ""erro_estatistico"". O aluno pode ter calculado a subtração incorretamente."
+27427,EF04MA01,A,97949,"E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar. O aluno pode ter confundido 200.000 como um número menor do que os apresentados, por considerá-lo como uma dezena de milhar, e não uma centena de milhar."
+27427,EF04MA01,C,97963,"erro_estatistico - Esta alternativa não se encaixa em nenhum dos erros sistemáticos listados na tabela. O aluno pode ter cometido um erro ao ordenar os números, mas não é um erro relacionado à leitura, escrita, comparação ou compreensão do sistema de numeração decimal."
+27427,EF04MA01,D,97964,"erro_estatistico - Esta alternativa também não se encaixa em nenhum dos erros sistemáticos listados na tabela. O aluno pode ter cometido um erro ao ordenar os números, mas não é um erro relacionado à leitura, escrita, comparação ou compreensão do sistema de numeração decimal."
+27431,EF04MA01,A,97965,E2 - Erro na ordenação de números naturais até a ordem das dezenas de milhar
+27431,EF04MA01,B,97970,E2 - Erro na ordenação de números naturais até a ordem das dezenas de milhar
+27431,EF04MA01,C,97971,E2 - Erro na ordenação de números naturais até a ordem das dezenas de milhar
+27440,EF04MA01,A,98001,E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar
+27440,EF04MA01,B,98002,E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar
+27440,EF04MA01,C,98003,E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar
+27444,EF04MA01,A,98017,"E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar. O aluno pode ter confundido a diferença entre dezenas de milhar e centenas de milhar, resultando em uma resposta significativamente maior do que a correta."
+27444,EF04MA01,B,98018,erro_estatistico - Esta alternativa não parece corresponder a nenhum dos erros sistemáticos listados na tabela. Pode ser um erro aleatório ou um erro de cálculo.
+27444,EF04MA01,C,98019,"E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar. O aluno pode ter lido ou escrito incorretamente o número, resultando em uma resposta que é muito próxima, mas ainda assim incorreta."
+27445,EF04MA01,A,98021,E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar
+27445,EF04MA01,B,98022,E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar
+27445,EF04MA01,C,98023,E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar
+27446,EF04MA01,A,98025,73.123 - Classificação: E1 (Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar)
+27446,EF04MA01,C,98027,11.850 - Classificação: E1 (Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar)
+27446,EF04MA01,D,98028,12.850 - Classificação: E1 (Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar)
+27447,EF04MA01,A,98029,E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar. O aluno pode ter confundido a ordem das unidades de milhar e das dezenas.
+27447,EF04MA01,C,98031,E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar. O aluno pode ter confundido a quantidade de unidades de milhar.
+27447,EF04MA01,D,98032,E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar. O aluno pode ter confundido a quantidade de unidades de milhar.
+27456,EF04MA01,B,98062,erro_estatistico
+27456,EF04MA01,C,98063,erro_estatistico
+27456,EF04MA01,D,98064,erro_estatistico
+27458,EF04MA01,B,98070,"Erro E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar. O aluno pode ter confundido a escrita do número 11.500, escrevendo 110 em vez disso."
+27458,EF04MA01,C,98071,"Erro E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar. O aluno pode ter adicionado 1 à dezena de milhar, resultando em 11.001, em vez de dobrar o valor para representar a ida e volta."
+27458,EF04MA01,D,98072,"Erro_estatistico - Não corresponde a nenhum erro sistemático da tabela. O aluno pode ter adicionado 11 ao número original, mas não está claro por que eles fariam isso."
+27460,EF04MA01,A,98077,"E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar. O aluno pode ter confundido a dezena de milhar (10.000) com a centena de milhar (100.000), resultando em um cálculo excessivo do que falta para chegar a uma dezena de milhar."
+27460,EF04MA01,C,98079,erro_estatistico - Não parece haver um erro sistemático associado a essa alternativa. O aluno pode ter cometido um erro de cálculo ao tentar determinar quanto falta para chegar a uma dezena de milhar.
+27460,EF04MA01,D,98080,"E10 - Erro na compreensão da diferença entre dezenas de milhar e centenas de milhar. O aluno pode ter confundido a dezena de milhar (10.000) com a centena de milhar (100.000), resultando em um cálculo excessivo do que falta para chegar a uma dezena de milhar."
+27464,EF04MA01,B,98094,"erro_estatistico. A alternativa não corresponde a nenhum erro sistemático da tabela. O valor está apenas 1.000 reais acima do valor correto, o que pode ser um erro de cálculo simples."
+27464,EF04MA01,C,98095,"erro_estatistico. A alternativa não corresponde a nenhum erro sistemático da tabela. O valor está 2.000 reais acima do valor correto, o que pode ser um erro de cálculo simples."
+27464,EF04MA01,D,98096,"erro_estatistico. A alternativa não corresponde a nenhum erro sistemático da tabela. O valor está 3.000 reais acima do valor correto, o que pode ser um erro de cálculo simples."
+27466,EF04MA01,B,98102,"erro_estatistico. A alternativa não se relaciona com a habilidade EF04MA01, pois não envolve leitura, escrita, ordenação, comparação ou compreensão do sistema de numeração decimal até a ordem das dezenas de milhar. Além disso, não apresenta um erro sistemático identificado na tabela."
+27466,EF04MA01,C,98797,"erro_estatistico. A alternativa não se relaciona com a habilidade EF04MA01, pois não envolve leitura, escrita, ordenação, comparação ou compreensão do sistema de numeração decimal até a ordem das dezenas de milhar. Além disso, não apresenta um erro sistemático identificado na tabela."
+27466,EF04MA01,D,98798,"erro_estatistico. A alternativa não se relaciona com a habilidade EF04MA01, pois não envolve leitura, escrita, ordenação, comparação ou compreensão do sistema de numeração decimal até a ordem das dezenas de milhar. Além disso, não apresenta um erro sistemático identificado na tabela."
+27654,EF04MA01,B,98800,"Erro E3 - Erro na comparação de números naturais até a ordem das dezenas de milhar. O aluno pode ter comparado erroneamente os números, acreditando que a terceira equipe fez mais pontos do que realmente fez."
+27654,EF04MA01,C,98805,"Erro E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar. O aluno pode ter lido ou escrito o número de pontos de forma errada, resultando em um valor muito maior do que o correto."
+27654,EF04MA01,D,98806,"Erro E1 - Erro na leitura e escrita de números naturais até a ordem das dezenas de milhar. O aluno pode ter lido ou escrito o número de pontos de forma errada, resultando em um valor muito maior do que o correto."
+27656,EF04MA01,A,98807,erro_estatistico
+27656,EF04MA01,C,98813,erro_estatistico
+27656,EF04MA01,D,98814,erro_estatistico
+27658,EF04MA01,B,98816,"erro_estatistico. A alternativa não corresponde a nenhum erro sistemático da tabela. O valor está muito abaixo do esperado, o que pode indicar um erro de cálculo ou compreensão do problema, mas não se encaixa em nenhum dos erros sistemáticos listados."
+27658,EF04MA01,C,98825,"erro_estatistico. A alternativa não corresponde a nenhum erro sistemático da tabela. O valor está muito acima do esperado, o que pode indicar um erro de cálculo ou compreensão do problema, mas não se encaixa em nenhum dos erros sistemáticos listados."
+27658,EF04MA01,D,98826,"erro_estatistico. A alternativa não corresponde a nenhum erro sistemático da tabela. O valor está muito acima do esperado, o que pode indicar um erro de cálculo ou compreensão do problema, mas não se encaixa em nenhum dos erros sistemáticos listados."
+27663,EF04MA01,A,98833,"R$ 170,00 - erro_estatistico"
+27663,EF04MA01,B,98834,"R$ 180,00 - erro_estatistico"
+27663,EF04MA01,C,98839,"R$ 1,00 - erro_estatistico"

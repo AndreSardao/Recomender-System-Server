@@ -1,0 +1,79 @@
+id_da_questao,id_da_alternativa,codigo_erro,nome_erro
+37447,135203,0410_Erro_3x,Erro de representação decimal/centésimos
+37447,135204,0410_Erro_3x,Erro de representação decimal/centésimos
+37447,135205,0410_Erro_3x,Erro de representação decimal/centésimos
+37449,135211,0410_Erro_3x,Erro de representação decimal/centésimos
+37449,135212,0410_Erro_3x,Erro de representação decimal/centésimos
+37449,135213,0410_Erro_3x,Erro de representação decimal/centésimos
+37450,135215,0410_Erro_3x,Erro de representação decimal/centésimos
+37450,135216,0410_Erro_3x,Erro de representação decimal/centésimos
+37450,135217,0410_Erro_3x,Erro de representação decimal/centésimos
+37451,135219,0410_Erro_3x,Erro de representação decimal/centésimos
+37451,135220,0410_Erro_3x,Erro de representação decimal/centésimos
+37451,135221,0410_Erro_3x,Erro de representação decimal/centésimos
+37452,135223,0410_Erro_3x,Erro de representação decimal/centésimos
+37452,135224,0410_Erro_3x,Erro de representação decimal/centésimos
+37452,135225,0410_Erro_3x,Erro de representação decimal/centésimos
+37453,135227,0410_Erro_3x,Erro de representação decimal/centésimos
+37453,135228,0410_Erro_3x,Erro de representação decimal/centésimos
+37453,135229,0410_Erro_3x,Erro de representação decimal/centésimos
+37454,135231,0410_Erro_3x,Erro de representação decimal/centésimos
+37454,135232,0410_Erro_3x,Erro de representação decimal/centésimos
+37454,135233,0410_Erro_3x,Erro de representação decimal/centésimos
+37455,135235,0410_Erro_3x,Erro de representação decimal/centésimos
+37455,135236,0410_Erro_3x,Erro de representação decimal/centésimos
+37455,135237,0410_Erro_3x,Erro de representação decimal/centésimos
+37464,135270,0410_Erro_3x,Erro de representação decimal/centésimos
+37464,135272,0410_Erro_3x,Erro de representação decimal/centésimos
+37464,135273,0410_Erro_3x,Erro de representação decimal/centésimos
+37470,135294,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37470,135295,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37470,135296,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37472,135302,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37472,135304,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37472,135305,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37473,135306,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37473,135308,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37473,135309,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37474,135310,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37474,135312,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37474,135313,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37475,135314,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37475,135315,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37475,135317,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37476,135318,0410_Erro_1,Erro de soma/subtração monetária
+37476,135319,0410_Erro_1,Erro de soma/subtração monetária
+37476,135321,0410_Erro_1,Erro de soma/subtração monetária
+37477,135322,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37477,135324,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37477,135325,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37478,135326,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37478,135328,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37478,135329,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37479,135330,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37479,135331,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37479,135333,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37480,135334,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37480,135335,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37480,135337,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37481,135338,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37481,135339,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37481,135341,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37482,135342,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37482,135344,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37482,135345,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37483,135346,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37483,135347,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37483,135349,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37484,135350,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37484,135351,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37484,135353,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37485,135354,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37485,135355,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37485,135357,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37486,135358,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37486,135359,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+37486,135361,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+38030,137534,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+38030,137535,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
+38030,137536,0410_Erro_2,Erro de cálculo produto (valor × quantidade)
